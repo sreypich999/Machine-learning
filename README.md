@@ -33,11 +33,5 @@ All notebooks use the following Python libraries:
 
 ---
 
-## ⚙️ How to Run
 
-1. Clone the repository or download the ZIP:
-
-```bash
-git clone https://github.com/yourusername/ml-school-task.git
-cd ml-school-task
 
