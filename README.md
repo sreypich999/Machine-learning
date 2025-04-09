@@ -20,18 +20,23 @@ You can run these notebooks using **Jupyter Notebook** or **Google Colab**.
 
 ---
 
-## 📦 Libraries Used
-
-All notebooks use the following Python libraries:
-
-| Library         | Description                                      | Documentation Link |
-|----------------|--------------------------------------------------|---------------------|
-| `numpy`         | Numerical operations (used for scratch versions) | [NumPy Docs](https://numpy.org/doc/) |
-| `pandas`        | Data manipulation and loading                    | [Pandas Docs](https://pandas.pydata.org/docs/) |
-| `matplotlib`    | Basic plotting and visualizations                | [Matplotlib Docs](https://matplotlib.org/stable/index.html) |
-| `scikit-learn`  | Built-in ML models (sklearn version)             | [Scikit-learn Docs](https://scikit-learn.org/stable/user_guide.html) |
 
 ---
+
+## 📦 Libraries Used
+
+The following libraries are used in the notebooks to implement the models and preprocess the data:
+
+| Library             | Description                                           | Documentation Link                           |
+|---------------------|-------------------------------------------------------|----------------------------------------------|
+| `numpy`             | Numerical operations for scratch implementations     | [NumPy Docs](https://numpy.org/doc/)         |
+| `pandas`            | Data manipulation and loading                        | [Pandas Docs](https://pandas.pydata.org/docs/) |
+| `matplotlib`        | Data visualization (graphs and charts)               | [Matplotlib Docs](https://matplotlib.org/stable/index.html) |
+| `scikit-learn`      | Built-in ML models and data preprocessing tools      | [Scikit-learn Docs](https://scikit-learn.org/stable/user_guide.html) |
+| `sklearn.preprocessing` | Tools for scaling and encoding data                | [Sklearn Preprocessing](https://scikit-learn.org/stable/modules/preprocessing.html) |
+
+---
+
 
 
 
