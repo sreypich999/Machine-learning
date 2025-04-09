@@ -17,11 +17,27 @@ Both algorithms are built:
 
 You can run these notebooks using **Jupyter Notebook** or **Google Colab**.
 
-### 🧪 Required Libraries
 
-Make sure to install the following libraries:
+---
+
+## 📦 Libraries Used
+
+All notebooks use the following Python libraries:
+
+| Library         | Description                                      | Documentation Link |
+|----------------|--------------------------------------------------|---------------------|
+| `numpy`         | Numerical operations (used for scratch versions) | [NumPy Docs](https://numpy.org/doc/) |
+| `pandas`        | Data manipulation and loading                    | [Pandas Docs](https://pandas.pydata.org/docs/) |
+| `matplotlib`    | Basic plotting and visualizations                | [Matplotlib Docs](https://matplotlib.org/stable/index.html) |
+| `scikit-learn`  | Built-in ML models (sklearn version)             | [Scikit-learn Docs](https://scikit-learn.org/stable/user_guide.html) |
+
+---
+
+## ⚙️ How to Run
+
+1. Clone the repository or download the ZIP:
 
 ```bash
-pip install numpy pandas matplotlib scikit-learn
-
+git clone https://github.com/yourusername/ml-school-task.git
+cd ml-school-task
 
