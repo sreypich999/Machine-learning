@@ -12,5 +12,16 @@ Both algorithms are built:
 
 ---
 
-## 📁 Project Structure
+
+## 🔧 Setup Instructions
+
+You can run these notebooks using **Jupyter Notebook** or **Google Colab**.
+
+### 🧪 Required Libraries
+
+Make sure to install the following libraries:
+
+```bash
+pip install numpy pandas matplotlib scikit-learn
+
 
