@@ -24,32 +24,26 @@ Each model is implemented in two ways:
 You can run these notebooks using **Jupyter Notebook** or **Google Colab**.
 
 
----
+
+
+
+
 
 
 
 
 ---
 
-## 🧰 Tech Stack & Libraries
+## 📦 Libraries Used
 
-| Tool | Use |
-|------|-----|
-| [NumPy](https://numpy.org) | Matrix operations and numeric computation |
-| [Pandas](https://pandas.pydata.org) | Data loading and manipulation |
-| [Matplotlib](https://matplotlib.org) | Data visualization |
-| [scikit-learn](https://scikit-learn.org) | Machine learning models, preprocessing, and evaluation |
+The following libraries are used in the notebooks to implement the models and preprocess the data:
 
----
-
-## 🚀 How to Run
-
-1. **Clone the repository**:
-```bash
-git clone https://github.com/yourusername/ml-project.git
-cd ml-project
-
-
-
+| Library             | Description                                           | Documentation Link                           |
+|---------------------|-------------------------------------------------------|----------------------------------------------|
+| `numpy`             | Numerical operations for scratch implementations     | [NumPy Docs](https://numpy.org/doc/)         |
+| `pandas`            | Data manipulation and loading                        | [Pandas Docs](https://pandas.pydata.org/docs/) |
+| `matplotlib`        | Data visualization (graphs and charts)               | [Matplotlib Docs](https://matplotlib.org/stable/index.html) |
+| `scikit-learn`      | Built-in ML models and data preprocessing tools      | [Scikit-learn Docs](https://scikit-learn.org/stable/user_guide.html) |
+| `sklearn.preprocessing` | Tools for scaling and encoding data                | [Sklearn Preprocessing](https://scikit-learn.org/stable/modules/preprocessing.html) |
 
 
