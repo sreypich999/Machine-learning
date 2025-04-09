@@ -1,16 +1,23 @@
-# 🎓 Machine Learning  – Regression & Classification (School Task)
+# 💡 Machine Learning from Scratch & scikit-learn 📚
 
-This repository contains my school project for the Machine Learning course.  
-The goal of this project is to implement and demonstrate:
+[![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python)](https://www.python.org/)
+[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+[![Status](https://img.shields.io/badge/status-Student%20Project-brightgreen)]()
 
-- ✅ Linear Regression (for predicting continuous values)
-- ✅ Logistic Regression (for binary classification)
+This repository showcases simple, beginner-friendly implementations of:
 
-Both algorithms are built:
-- From scratch using **NumPy**
-- Using **scikit-learn**
+- 🔵 **Linear Regression** (for predicting continuous values)
+- 🟠 **Logistic Regression** (for binary classification)
+
+Each model is implemented in two ways:
+- 🚀 **From Scratch** using NumPy
+- ⚙️ **Using scikit-learn** for comparison and best practices
 
 ---
+
+## 📁 Project Structure
+
+
 
 
 ## 🔧 Setup Instructions
@@ -21,7 +28,6 @@ You can run these notebooks using **Jupyter Notebook** or **Google Colab**.
 ---
 
 
----
 
 ## 📦 Libraries Used
 
