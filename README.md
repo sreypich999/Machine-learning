@@ -7,7 +7,7 @@
 This repository showcases simple, beginner-friendly implementations of:
 
 - 🔵 **Linear Regression** (for predicting continuous values)
-- 🟠 **Logistic Regression** (for binary classification)
+- 🟠 **Logistic Regression** 
 
 Each model is implemented in two ways:
 - 🚀 **From Scratch** using NumPy
